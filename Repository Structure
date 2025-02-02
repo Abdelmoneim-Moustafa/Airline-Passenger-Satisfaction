@@ -1,0 +1,14 @@
+Airline-Passenger-Satisfaction/
+│── data/                      # Dataset files
+│   ├── airline_passenger_satisfaction.csv
+│── notebook/                 # Jupyter Notebooks for analysis
+│   ├── Airline Passenger Satisfaction Analysis.ipynb              # Exploratory Data Analysis   # Data Preprocessing  # Model Training & Evaluation
+│── app/                       # Streamlit Dashboard
+│   ├── dashboard.py           # Streamlit App
+│── src/                       # Source code for ML pipeline
+│   ├── train.py               # Model Training
+│   ├── utils.py               # Helper functions
+│── requirements.txt           # Dependencies
+│── README.md                  # Project Documentation
+│── LICENSE                    # License Information
+│── .gitignore                 # Ignored files
