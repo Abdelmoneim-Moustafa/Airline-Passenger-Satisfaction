@@ -29,6 +29,23 @@ An interactive **Streamlit dashboard** for real-time data exploration.
 ## 🛠️ Installation
 Clone the repo and install dependencies:
 
+📊 Results & Insights
+- Business class passengers are more satisfied.
+- Long delays negatively impact satisfaction.
+- Service-related features (WiFi, Food) are crucial.
+
+  📈 Future Improvements
+- More advanced models (e.g., XGBoost)
+- Hyperparameter tuning
+- Real-time data updates
+
+This **repo structure** makes your project **organized, reusable, and easy to navigate**. Let me know if you need any modifications! 🚀
+
+📞 Contact
+For questions or collaboration:
+- LinkedIn: [https://www.linkedin.com/in/abdelmoneim-moustafa-abdelmoneim-975b0b1aa/](https://www.linkedin.com/in/abdelmoneim-moustafa-975b0b1aa/)
+
+
 ```bash
 git clone https://github.com/Abdelmoneim-Moustafa/Airline-Passenger-Satisfaction.git
 cd Airline-Passenger-Satisfaction
