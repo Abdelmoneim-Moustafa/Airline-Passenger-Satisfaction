@@ -5,3 +5,5 @@ plotly
 seaborn
 matplotlib
 Pillow
+statsmodels
+scikit-learn
