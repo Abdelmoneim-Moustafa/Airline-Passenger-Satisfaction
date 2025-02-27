@@ -26,7 +26,7 @@ The dataset includes passenger demographics, travel details, and satisfaction ra
 ## 🎛️ Dashboard
 An interactive **Streamlit dashboard** for real-time data exploration.
 
-**Dashboard Link:** 
+**Dashboard Link:** [https://airline-passenger-satisfaction-anlysis.streamlit.app/] 
 
 ## 🛠️ Installation
 Clone the repo and install dependencies:
