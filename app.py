@@ -63,7 +63,7 @@ if page == "Overview":
 
     # Display cover image
     try:
-        st.image("dataset-cover.jpg", use_column_width=True)
+        st.image("dataset-cover.jpg", use_container_width=True)
     except FileNotFoundError:
         st.warning("⚠️ Dataset cover image not found.")
 
